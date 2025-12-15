@@ -1,0 +1,23 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "main": "node1.js",
+  "scripts": {
+    "dev": "nodemon /test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Singa10/GDG-Node-track-Singitan-Niguse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Singa10/GDG-Node-track-Singitan-Niguse/issues"
+  },
+  "homepage": "https://github.com/Singa10/GDG-Node-track-Singitan-Niguse#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
